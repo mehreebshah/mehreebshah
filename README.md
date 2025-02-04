@@ -1,4 +1,4 @@
-### Hi there, I'm Mehreeb Shah 👋
+### Hi there, I'm Areeba Shah 👋
 
 ---
 
