@@ -1,80 +1,70 @@
-<!-- Typing Banner -->
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Areeba+Shah+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Python+Programmer+%F0%9F%90%8D;Building+Web+%26+AI+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:7F00FF&height=220&section=header&text=Syeda%20Areeba%20Shah&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Python%20Programmer%20%7C%20Web%20Explorer&descSize=18&descAlignY=75"/>
 </p>
 
-<!-- Wave Banner -->
+<!-- Typing Intro -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=✨%20Welcome%20to%20My%20World%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Areeba+%F0%9F%91%8B;Creative+Frontend+Developer+%F0%9F%92%BB;Python+%26+AI+Projects+Builder+%F0%9F%90%8D;Passionate+about+Learning+%26+Sharing+%F0%9F%93%9A;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Frontend Developer | 🐍 Python Enthusiast | 🌐 Web Explorer  
+## 🚀 Frontend Developer | 🐍 Python Enthusiast | 🌐 Tech Explorer  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20With-Passion-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Love%20For-Creativity-blueviolet?style=for-the-badge&logo=starship&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Next.js%20%26%20Python-00ffff?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Next.js%20%7C%20Python-00ffff?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Always-Learning-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </p>
 
 ---
 
 ### 🌟 About Me  
 
-✨ Crafting **beautiful, functional web apps** with a pinch of creativity.  
-📚 Growing expertise in **Next.js, Tailwind & Python projects**.  
-💬 Open to collaborations on **Frontend + Python Tools**.  
-📩 Reach me anytime: **shahsyedareeba8@gmail.com**  
+✨ Crafting **modern, user-focused web apps** with clean code & creativity.  
+📚 Currently exploring **Next.js, Tailwind CSS, and AI-powered Python tools**.  
+🤝 Open to collaborations on **Frontend, Python & Open Source Projects**.  
+📩 Reach me: **shahsyedareeba8@gmail.com**  
 
 ---
 
 ### 💼 Tech Toolbox  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,py,nodejs,git,docker,vscode,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,py,nodejs,git,github,docker,vscode,figma&perline=7" />
 </p>
 
 ---
 
-### 🔥 Current Projects  
-
-- 📝 **Next.js Blog Site** (Sanity CMS + Tailwind)  
-- 🔐 **Data Encryption Tool** (Streamlit + Python)  
-- 🧾 **Resume Builder Web App**  
-- 🚗 **Car Rental Website**  
-- 🪴 **Plant E-commerce Store**  
-
----
-
-### 🏆 GitHub Showcase  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehreebshah&theme=radical&no-frame=true&row=2&column=4" />
-</p>
-
----
-
-### 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehreebshah&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehreebshah&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehreebshah&theme=radical&hide_border=true" width="70%" />
-</p>
-
----
-
-### 📌 Featured Projects  
+### 🔥 Featured Projects  
 
 - 🔐 [Secure Data Encryption App](https://github.com/mehreebshah/python-secure-data-encryption-streamlit)  
 - 🎮 [Guess The Number Game](https://github.com/mehreebshah/Guess_the_Number_Game-Python)  
 - 📄 [Resume Builder](https://github.com/mehreebshah/Resume-Builder)  
 - 🛒 [Plant Ecommerce Site](https://github.com/mehreebshah/Ecommerce-Plant)  
 - 🚘 [Rental Car Website](https://github.com/mehreebshah/Rental-Car)  
+
+---
+
+### 🏆 GitHub Highlights  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mehreebshah&theme=discord&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehreebshah&show_icons=true&theme=midnight-purple&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehreebshah&layout=compact&theme=midnight-purple&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehreebshah&theme=midnight-purple&hide_border=true" width="70%" />
+</p>
 
 ---
 
@@ -94,11 +84,19 @@
 
 ---
 
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/mehreebshah/mehreebshah/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 > 🌱 *"Code is like humor. If you have to explain it, it’s bad."* — Cory House  
 
 ---
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=120&section=footer"/>
 </p>
