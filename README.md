@@ -1,7 +1,7 @@
 <!-- Hero Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:7F00FF&height=220&section=header&text=Syeda%20Areeba%20Shah&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Python%20Programmer%20%7C%20Web%20Explorer&descSize=18&descAlignY=75"/>
-</p>
+</p> -->
 
 <!-- Typing Intro -->
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Frontend Developer | 🐍 Python Enthusiast | 🌐 Tech Explorer  
+## 🚀 Frontend Developer | 🐍 Python Enthusiast | 🌐 Tech Explorer  | Agentic developer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20With-Passion-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
@@ -47,26 +47,7 @@
 
 ---
 
-### 🏆 GitHub Highlights  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehreebshah&theme=discord&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehreebshah&show_icons=true&theme=midnight-purple&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehreebshah&layout=compact&theme=midnight-purple&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehreebshah&theme=midnight-purple&hide_border=true" width="70%" />
-</p>
-
----
 
 ### 🌐 Connect With Me  
 
@@ -77,18 +58,10 @@
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/mehreebshah/mehreebshah/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
@@ -97,6 +70,3 @@
 ---
 
 <!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=120&section=footer"/>
-</p>
