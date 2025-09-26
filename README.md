@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:7F00FF&height=220&section=header&text=Syeda%20Areeba%20Shah&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Python%20Programmer%20%7C%20Web%20Explorer&descSize=18&descAlignY=75"/>
 </p> -->
 
+
 <!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Areeba+%F0%9F%91%8B;Creative+Frontend+Developer+%F0%9F%92%BB;Python+%26+AI+Projects+Builder+%F0%9F%90%8D;Passionate+about+Learning+%26+Sharing+%F0%9F%93%9A;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing SVG" />
